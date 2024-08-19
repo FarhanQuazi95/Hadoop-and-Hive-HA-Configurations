@@ -1,0 +1,1 @@
+# Hadoop-and-Hive-HA-Configurations
